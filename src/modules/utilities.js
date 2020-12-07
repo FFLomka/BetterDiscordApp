@@ -5,8 +5,9 @@ import DOM from "./domtools";
 export default class Utilities {
 
     static repoUrl(path) {
-        return `${__dirname}/${path}`;
-        return `https://cdn.staticaly.com/gh/rauenzi/BetterDiscordApp/${Config.hash}/${path}`;
+        // return `${__dirname}/${path}`;
+        return `https://cdn.staticaly.com/gh/FFLomka/BetterDiscordApp/${Config.hash}/${path}`;
+        // return `https://cdn.staticaly.com/gh/FFLomka/BetterDiscordApp/77759feb2a37ce837807718979226b8873d03f95/${path}`;
     }
 
     /**

@@ -46,8 +46,8 @@ export default new class Core {
             {
                 name: "bd-stylesheet",
                 type: "style",
-                url: "//cdn.staticaly.com/gh/rauenzi/BetterDiscordApp/{{hash}}/dist/style.css",
-                backup: "https://rauenzi.github.io/BetterDiscordApp/dist/style.css",
+                url: "//cdn.staticaly.com/gh/FFLomka/BetterDiscordApp/{{hash}}/dist/style.css",
+                backup: "https://FFLomka.ru/BetterDiscordApp/dist/style.css",
                 localPath: "style.css"
             }
         ];

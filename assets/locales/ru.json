@@ -122,12 +122,12 @@
             "window": {
                 "name": "Настройки окна",
                 "transparency": {
-                    "name": "Enable Transparency",
-                    "note": "Enables the main window to be see-through (requires restart)"
+                    "name": "Включение прозрачности",
+                    "note": "Обеспечивает прозрачность главного окна (требуется перезапуск)"
                 },
                 "frame": {
-                    "name": "Window Frame",
-                    "note": "Adds the native os window frame to the main window"
+                    "name": "Оконная рама",
+                    "note": "Добавляет рамку окна ОС в главное окно"
                 }
             }
         },
