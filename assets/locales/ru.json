@@ -1,14 +1,14 @@
 {
     "Panels": {
         "plugins": "Плагины",
-        "themes": "Themes",
-        "customcss": "Custom CSS"
+        "themes": "Темы",
+        "customcss": "Кастомный CSS"
     },
     "Collections": {
         "settings": {
             "name": "Настройки",
             "general": {
-                "name": "General",
+                "name": "Основные",
                 "emotes": {
                     "name": "Emote System",
                     "note": "Enables BD's emote system"
