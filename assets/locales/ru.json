@@ -31,7 +31,7 @@
                 }
             },
             "appearance": {
-                "name": "Appearance",
+                "name": "Внешний вид",
                 "voiceMode": {
                     "name": "Voice Mode",
                     "note": "Hides everything that isn't voice chat"
@@ -54,7 +54,7 @@
                 }
             },
             "addons": {
-                "name": "Addon Manager",
+                "name": "Менеджер плагинов",
                 "addonErrors": {
                     "name": "Show Addon Errors",
                     "note": "Shows a modal with plugin/theme errors"
@@ -77,9 +77,9 @@
                 }
             },
             "customcss": {
-                "name": "Custom CSS",
+                "name": "Кастомный CSS",
                 "customcss": {
-                    "name": "Custom CSS",
+                    "name": "Кастомный CSS",
                     "note": "Enables the Custom CSS tab"
                 },
                 "liveUpdate": {
@@ -105,7 +105,7 @@
                 }
             },
             "developer": {
-                "name": "Developer Settings",
+                "name": "Настройки разработчика",
                 "debuggerHotkey": {
                     "name": "Debugger Hotkey",
                     "note": "Allows activating debugger when pressing F8"
@@ -120,7 +120,7 @@
                 }
             },
             "window": {
-                "name": "Window Preferences",
+                "name": "Настройки окна",
                 "transparency": {
                     "name": "Enable Transparency",
                     "note": "Enables the main window to be see-through (requires restart)"
@@ -132,9 +132,9 @@
             }
         },
         "emotes": {
-            "name": "Emotes",
+            "name": "Эмоции",
             "general": {
-                "name": "General",
+                "name": "Основные",
                 "download": {
                     "name": "Download Emotes",
                     "note": "Download emotes whenever they are out of date"
@@ -165,7 +165,7 @@
                 }
             },
             "categories": {
-                "name": "Categories",
+                "name": "Категории",
                 "twitchglobal": {
                     "name": "Twitch Globals",
                     "note": "Show Twitch global emotes"
